@@ -330,7 +330,7 @@ Before submitting, verify the following:
 - [x] `docker-compose.deploy.yml` uses published images.
 - [x] Image-based deployment tested successfully.
 - [x] Networking and persistence verified.
-- [ ] GitHub Actions CD workflow executed successfully.
+- [x] GitHub Actions CD workflow executed successfully.
 - [x] Pull Request created against the original repository.
 - [x] Instructor CI checks passed, wherever available.
 - [x] PDF documentation prepared with all required screenshots.
